@@ -1,0 +1,6 @@
+Mi nombre es Alexis
+Mi apellido es Reyes
+25 años
+Y mi lenguaje preferido es Python
+Aunque también me gusta Kotlin
+Y Java
